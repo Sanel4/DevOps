@@ -3,3 +3,10 @@ Integrating GitHub with Azure Boards
 Commit to Azure Board, you need the spring ID 
 E.g. Commit message AB#1 
 AB#1 = AB for Azure Boards, #1 = Sprint ID.
+
+
+How do I tell Azure Boards that the first Development is created?
+Try the following:
+Completed AB#1
+Developed AB#1
+Fixed AB#1
